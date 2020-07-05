@@ -1,4 +1,4 @@
-The scala example , base on the BDE's docker-spark:
+The scala example , based on the BDE's docker-spark:
 
 https://github.com/big-data-europe/docker-spark
 

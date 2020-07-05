@@ -27,7 +27,7 @@ object Application{
         println(s"Pi is roughly ${4.0 * count / NUM_SAMPLES}")
 
         
-        //sc.stop
+        sc.stop
    }
 
 }
